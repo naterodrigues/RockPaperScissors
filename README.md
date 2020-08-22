@@ -14,7 +14,7 @@ You can find the video [here](https://www.youtube.com/watch?v=jaVNP3nIAv0)
 |HTML|<ul><li>Getting comfortable setting up the stock-standard HTML page with correct semantics and importing stylesheets and javascript</li><li>Understanding of how stylesheets and .js files can all be connected via classes and id's.</li>      |
 |Git|<ul><li>Practicing using VS Code and Linux Terminal to commit changes and push them to my GitHub repo!</li><li>How to format this README.md page and create tables and centre columns</li></ul>
 
-### Some Screenshots of the Game
+## Some Screenshots of the Game
 
 ##### A Fresh Game
 
