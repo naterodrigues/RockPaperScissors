@@ -24,6 +24,9 @@ font-family: 'Raleway',sans-serif;
 
 }
 
+
+
+
 .score-board {
     border: 3px solid #1c2321;
     width: 200px;
@@ -79,7 +82,7 @@ font-family: 'Raleway',sans-serif;
 
 .choices {
     text-align: center;
-    margin-top: 60px;
+    margin-top: 30px;
     background-color: #F3f3f3;
     border-radius: 50%;
 
@@ -93,7 +96,7 @@ font-family: 'Raleway',sans-serif;
     padding: 15px;
     margin: 5px 5px;
     border-radius: 50%;
-    border: 4px solid #4e4187;
+    border: 4px solid #ffffff;
 }
 .choices :hover {
     cursor: pointer;
@@ -107,6 +110,21 @@ font-family: 'Raleway',sans-serif;
     font-weight: bold;
     font-size: 15px;
     color: #1c2321;
+}
+
+.green-glow {
+    border: 4px solid #4dcc7d;
+    box-shadow: 0 0 10px #31b43a; /* Horizontal then Vertical Offset then Blur */
+}
+
+.red-glow {
+    border: 4px solid #fc121b;
+    box-shadow: 0 0 10px #d01115;
+}
+
+.grey-glow {
+    border: 4px solid #949494;
+    box-shadow: 0 0 10px #575858;
 }
 
 
