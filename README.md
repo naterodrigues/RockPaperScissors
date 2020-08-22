@@ -5,7 +5,7 @@ I stumbled upon this really great video on youtube which walked through how to b
 
 There is definitely an abundance of tutorials out there that take you through how to build a rock paper scissors game. However, this one caught my attention as there was actually a lot of time spent on setting up CSS styles and making sure it not only functioned - but it looked good too! 
 
-You can find the video [here](https://youtube.com/watch?v=jaVNP3nIAvo)
+You can find the video [here](https://www.youtube.com/watch?v=jaVNP3nIAv0)
 
 | Programming Language | What I delved into | 
 |:-:|:--|
@@ -14,10 +14,32 @@ You can find the video [here](https://youtube.com/watch?v=jaVNP3nIAvo)
 |HTML|<ul><li>Getting comfortable setting up the stock-standard HTML page with correct semantics and importing stylesheets and javascript</li><li>Understanding of how stylesheets and .js files can all be connected via classes and id's.</li>      |
 |Git|<ul><li>Practicing using VS Code and Linux Terminal to commit changes and push them to my GitHub repo!</li><li>How to format this README.md page and create tables and centre columns</li></ul>
 
-### Some screenshots of the game
+### Some Screenshots of the Game
 
-##### A fresh game
+##### A Fresh Game
 
 How a fresh game looks on the first load of the page.
-![A fresh game](/images/new_game.png
+![A fresh game](/images/new_game.png)
+
+
+##### Winning Round
+
+The user selection that wins also glows green for 0.3 seconds which isn't captured in this screenshot. 
+
+![A win](/images/win.png)
+
+
+##### Losing Round
+
+The user selection that loses also glows red for 0.3 seconds which isn't captured in this screenshot. 
+
+![A loss](/images/lose.png)
+
+##### Draw
+
+The user selection that loses also glows red for 0.3 seconds which isn't captured in this screenshot. 
+
+![A loss](/images/draw.png)
+
+
 
