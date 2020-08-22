@@ -7,6 +7,7 @@ There is definitely an abundance of tutorials out there that take you through ho
 
 | Programming Language | What I delved into | 
 |---|---|
-|:-: CSS|<ul><li>Importing google fonts and setting a backup.</li><li>Box shadows, creating circles and displaying divs in-line</li></ul>
+|:-:|:--|
+|CSS|<ul><li>Importing google fonts and setting a backup.</li><li>Box shadows, creating circles and displaying divs in-line</li></ul>
 |Javascript|
 |Git|
