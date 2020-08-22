@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Raleway&display=swap');
+ /* Import Google Font of Choice */ 
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #eef1ef;
+}
+
+header {
+    background: white;
+    padding: 20px;
+    
+}
+
+header > h1 {
+color: #1c2321;
+text-align: center;
+font-family: 'Raleway',sans-serif;
+
+}
+
+.score-board {
+    border: 3px solid #1c2321;
+    width: 200px;
+    margin: 20px auto;
+    color: #1c2321;
+    font-size: 30px;
+    font-family: 'Raleway',sans-serif;
+    border-radius: 20px;
+    padding: 15px 20px;
+    text-align: center;
+    position: relative;
+}
+
+.badge {
+    background: #7D98A1;
+    font-size: 14px;
+    padding: 2px 10px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#user-label {
+    position: absolute;
+    top: 25px;
+    left: -25px;
+    background: #4e4187;
+    color: white;
+    font-weight: 800;
+    text-transform: uppercase;
+    
+}
+
+#comp-label {
+    position: absolute;
+    top: 25px;
+    right: -30px;
+    background: #3083dc;
+    color: white;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.result {
+    font-size: 25px;
+    color: #1c2321;
+    font-family: 'Raleway',sans-serif;
+    font-weight: bold;
+}
+
+.result > p {
+
+    text-align: center;
+}
+
+.choices {
+    text-align: center;
+    margin-top: 60px;
+    background-color: #F3f3f3;
+    border-radius: 50%;
+
+}
+
+
+.choice {
+   
+    display: inline-block; /* makes it horizontally aligned */
+    text-align: center;
+    padding: 15px;
+    margin: 5px 5px;
+    border-radius: 50%;
+    border: 4px solid #4e4187;
+}
+.choices :hover {
+    cursor: pointer;
+
+}
+
+#action-message {
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Raleway',sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: #1c2321;
+}
+
+
+
+
