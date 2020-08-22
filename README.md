@@ -37,7 +37,7 @@ The user selection that loses also glows red for 0.3 seconds which isn't capture
 
 ##### Draw
 
-The user selection that loses also glows red for 0.3 seconds which isn't captured in this screenshot. 
+The user selection that draws also glows grey for 0.3 seconds which isn't captured in this screenshot. 
 
 ![A loss](/images/draw.png)
 
